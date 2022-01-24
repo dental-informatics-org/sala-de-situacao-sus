@@ -1,6 +1,6 @@
-# Sala de Sitação em Saúde - SUS, Brasil
+# Sala de Situação em Saúde - SUS, Brasil
 
-A sala de situação em saúde, por natureza, tem o propósito de oferecer ferramentas (dados, informaçãoes e estruturas) para pessoas (gestores, coordenadores e executores) tomarem decições mais acertivas sobre os sistemas de saúde em momentos de crise, quando e onde o acesso a informação é precário, reduzido e extremamente necessário. Essas informações são usadas na tomada de decisões e também no acompanhamento e avalaição das ações escolhidas além do controle do próprio processo de geração de informação em si.
+A sala de situação em saúde, por natureza, tem o propósito de oferecer ferramentas (dados, informaçãoes e estruturas) para que os atores envolvidos no processo saúde-doença (gestores, coordenadores e executores e possivelmente pacientes, entre outros) tomem decições mais acertivas sobre os sistemas de saúde em momentos de crise, quando e onde o acesso a informação é precário, reduzido e extremamente necessário. Essas informações são usadas na tomada de decisões e também no acompanhamento e avalaição das ações escolhidas além do controle do próprio processo de geração de informação em si.
 
 O entendimento do 'REAL' cenário - ou próximo do real, da situação de saúde de uma determinada população num detrminado local e determinado tempo, passado, presente ou futuro, depende da disponibilidade de informações confiáveis, acessíveis e reproduzíveis. O entendimento e/ou a interpretação da situação de saúde é o fator que antecede a tomada de decisão. 
 
