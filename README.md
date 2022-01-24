@@ -49,8 +49,8 @@ A percepção da importância e escolha dos indicadores para o elenco a serer us
 # 3-DA EXIBIÇÂO do DADOS
 - Front-end ou micro front-end descentralizados seguindo o paradigma de sistemas desacoplados com microserviços consumindo RESTful endpoints. WebSockts para exibição real-time de dados.
 
-## Determinação de Indicadores a Serem Acompanhadas pela Sala de Situação em Saúde do SUS
-
+## Lista de Indicadores a Serem Acompanhadas pela Sala de Situação em Saúde do SUS
+- Influenza Surveillance Report (H3N2)
 
 # References
 1. [UNAIDS PROJECT 2018-2020 COUNTRY HEALTH SITUATION ROOM](https://situationroom.unaids.org/)
