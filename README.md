@@ -9,7 +9,7 @@ A Sala de Situacao em Saúde fora os momentos de crise é uma poderosa ferrament
 De forma geral, podemos dividir o processo operacional de uma 'Sala de Situação em Saúde' em 3 etapas: A GERAÇÂO dos DADOS, O ARMAZENAMENTO E PROCESSAMENTO dos DADOS e a PUBLICAÇÂO ou EXIBIÇÂO DAS INFORMAÇÔES para os atores envolvidos no processo. Note a diferença entre dado e informação empregada nessa frase. Os dados precisam ser tratados e analisados antes de se transformarem em informações que podem ser utilizadas por diferentes atores em diferentes situações e momentos.
 
 
-# DA GERAÇÂO dos DADOS
+# 1-DA GERAÇÂO dos DADOS
 
 Essa fase faz referência aos processos que estão envolvidos na geração dos dados e que de maneira direta ou indreta representam a situação de saúde numa população espaço e tempo. Uma pessoa, saudável ou doente para poder existir aos olhos de uma equipe de GESTÂO DE SAÚDE precisa em primeiro lugar, notificar, informar sobre o seu estado para essa equipe. Note que, por conclusão, por mais que tenhamos um sistema de informação altamente sensível, a captura do estado de saúde REAL de uma população ou indivíduo é muito difícil ou quase impossível. Por isso trabalha-se com um grande quantitativo de indicadores para poder ser aproximar do real cenário o mais que possível.
 A escolha de indicadores deve ser feita de maneira cosnciente e cautelosa. Uma escolha de indicadores feita de maneira descontrolada leva a uma sobrecarga da sala de situação podendo desviar o foco de daods mais importantes. A nível tecnológico, a escolha indiscriminada de indicadores conduz um sistema superestimado, sobrecarregado que leva mais tempo para ser desenvolvido e mantido com custos operacionais mais elevados de transmissão e armaenamento de dados. Haverá também custos associados aos processamentos de dados que poderiam ser evitados, levando-se em consideração da criação de uma arquitetura que opera em nuvens computacionais - PAY PER USE.
@@ -37,7 +37,7 @@ A percepção da importância e escolha dos indicadores para o elenco a serer us
 
 - A quantidade e frequencia com que os dados serão injetados no sistema e a sua utilização irão guiar ou definir a arquitetura do dataware house ou do data lake do sistema. 
 
-# DA ARMAZENAGEM e PROCESSAMENTO do DADOS
+# 2-DA ARMAZENAGEM e PROCESSAMENTO do DADOS
 
 - Uso de cloud computing (AWS) ?
 
@@ -46,7 +46,7 @@ A percepção da importância e escolha dos indicadores para o elenco a serer us
 - Segurança de dados e dsiponibilidade de regiões. 
 - Data lakes preparados para processos real-time.
 
-# DA EXIBIÇÂO do DADOS
+# 3-DA EXIBIÇÂO do DADOS
 - Front-end ou micro front-end descentralizados seguindo o paradigma de sistemas desacoplados com microserviços consumindo RESTful endpoints. WebSockts para exibição real-time de dados.
 
 ## Determinação de Indicadores a Serem Acompanhadas pela Sala de Situação em Saúde do SUS
